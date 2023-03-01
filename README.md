@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi! Eu me chamo Adryan Oliveira
 
-<!--
-**AdryanOliveira0/AdryanOliveira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Analise e desenvolvimento de sistemas e tenho interesse nas áreas de desenvolvimento Web, mobile e de jogos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 Atualmente estou dando os primeiros passos em Front-End e estudando Html,Css e JavaScript.
+- 📫 Contate-me no E-mail: Adryancunha321@gmail.com 
+
+
+<div>
+<a href="
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanOliveira0)](https://github.com/anuraghazra/github-readme-stats)
+</div>
