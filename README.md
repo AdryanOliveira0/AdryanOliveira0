@@ -10,5 +10,5 @@ Sou estudante de Analise e desenvolvimento de sistemas e tenho interesse nas ár
 
 <div>
 <a href="https://github.com/AdryanOliveira0">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdryanOliveira0)](https://github.com/anuraghazra/github-readme-stats)
+[![Adryan Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=adryanoliveira0)](https://github.com/anuraghazra/github-readme-stats)
 </div>
